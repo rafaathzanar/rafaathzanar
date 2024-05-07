@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a tech enthusiast currently in my second year of my bachelors degree.
+I am driven by a passion for technology and a relentless pursuit of knowledge. With a keen interesting learning emerging technologies.
 
 
 ## 🌐 Socials:
