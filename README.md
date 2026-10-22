@@ -2,7 +2,7 @@
 I am driven by a passion for technology and a relentless pursuit of knowledge. With a keen interesting learning emerging technologies.
 
 # 💼 Experience:
-### 🚖 Software Engineering Intern — PickMe Digital Mobility Solutions (Mar 2025 - Sept 2025)
+### 🚖 Software Engineering — PickMe Digital Mobility Solutions 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafathzanar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaathzanar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zanar) 
